@@ -34,5 +34,7 @@ if __name__ == '__main__':
         # _, _ = fpocket_server.run_command(clean_command)
         # clean_command = f'rm {alpha_folder}/{protein}/{protein}_out/{protein}_VMD.sh'
         # _, _ = fpocket_server.run_command(clean_command)
+        # clean_command = f'rm {alpha_folder}/{protein}/{protein}_out/{protein}_VMD.sh'
+        # _, _ = fpocket_server.run_command(clean_command)
 
 
